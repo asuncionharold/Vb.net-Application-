@@ -1,0 +1,13 @@
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\bin\Debug\Spot What is Odd.exe
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\bin\Debug\Spot What is Odd.pdb
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\bin\Debug\Spot What is Odd.xml
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot_What_is_Odd.Form1.resources
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot_What_is_Odd.Resources.resources
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot What is Odd.vbproj.GenerateResource.Cache
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot What is Odd.exe
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot What is Odd.xml
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot What is Odd.pdb
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot_What_is_Odd.Mother_Form.resources
+c:\users\harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot_What_is_Odd.Category.resources
+C:\Users\Harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot_What_is_Odd.a.resources
+C:\Users\Harold\documents\visual studio 2010\Projects\Spot What is Odd\Spot What is Odd\obj\x86\Debug\Spot_What_is_Odd.a_modal1.resources

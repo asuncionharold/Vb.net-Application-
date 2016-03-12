@@ -1,0 +1,16 @@
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot What is Odd.exe
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot What is Odd.xml
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot What is Odd.pdb
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Category.resources
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Form1.resources
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Mother_Form.resources
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Resources.resources
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Software Engineering.vbproj.GenerateResource.Cache
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\bin\Debug\Spot What is Odd.exe
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\bin\Debug\Spot What is Odd.pdb
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\bin\Debug\Spot What is Odd.xml
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Letters.resources
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Numbers.resources
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Shapes.resources
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Color.resources
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\Software Engineering\Software Engineering\obj\x86\Debug\Spot_What_is_Odd.Congrats.resources
